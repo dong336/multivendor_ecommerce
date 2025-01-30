@@ -1,0 +1,5 @@
+bun prisma generate
+
+bun prisma studio
+
+bun prisma db push
