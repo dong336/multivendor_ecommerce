@@ -40,6 +40,7 @@
         "date-fns": "^3.6.0",
         "embla-carousel-react": "^8.5.2",
         "input-otp": "^1.4.2",
+        "is-sorted": "^1.0.5",
         "lucide-react": "^0.474.0",
         "multivendor_ecommerce": "file:",
         "next": "15.1.6",
@@ -730,6 +731,8 @@
     "is-set": ["is-set@2.0.3", "", {}, "sha512-iPAjerrse27/ygGLxw+EBR9agv9Y6uLeYVJMu+QNCoouJ1/1ri0mGrcWpfCqFZuzzx3WjtwxG098X+n4OuRkPg=="],
 
     "is-shared-array-buffer": ["is-shared-array-buffer@1.0.4", "", { "dependencies": { "call-bound": "^1.0.3" } }, "sha512-ISWac8drv4ZGfwKl5slpHG9OwPNty4jOWPRIhBpxOoD+hqITiwuipOQ2bNthAzwA3B4fIjO4Nln74N0S9byq8A=="],
+
+    "is-sorted": ["is-sorted@1.0.5", "", {}, "sha512-KZJvKDrI+Kg3ixeDaZQIt7RIwcGnm07+NSipyj1r9MtjDrLG678ETy4yO6dBJLUjejPdge9fLCGxsWkQO/3PJg=="],
 
     "is-string": ["is-string@1.1.1", "", { "dependencies": { "call-bound": "^1.0.3", "has-tostringtag": "^1.0.2" } }, "sha512-BtEeSsoaQjlSPBemMQIrY1MY0uM6vnS1g5fmufYOtnxLGUZM2178PKbhsk7Ffv58IX+ZtcvoGwccYsh0PglkAA=="],
 
